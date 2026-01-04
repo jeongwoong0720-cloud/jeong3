@@ -1,0 +1,5 @@
+{
+  "name": "Jurisdiction Watch",
+  "description": "국가별로 분류된 외국인 커뮤니티 및 정보원 현황을 실시간으로 모니터링하고 관리하는 대시보드입니다.",
+  "requestFramePermissions": []
+}
